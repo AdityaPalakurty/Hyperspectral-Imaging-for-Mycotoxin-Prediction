@@ -71,3 +71,6 @@ streamlit run app.py
 ## 📌 Features
 - Upload CSV file for batch predictions.
 - Download prediction results.
+
+- ![image](https://github.com/user-attachments/assets/b54bac1b-7a2c-4d32-8b60-f40dce781a6f)
+
