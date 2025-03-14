@@ -1,8 +1,5 @@
 # Hyperspectral-Imaging-for-Mycotoxin-Prediction
 
-# README.md
-
-# DON Prediction App
 This repository contains a Streamlit-based web application for predicting Deoxynivalenol (DON) concentration in Food samples using a neural network model.
 The main objective is to process hyperspectral imaging data, perform dimensionality reduction, and develop a machine learning model to predict mycotoxin levels (e.g., DON concentration) in corn samples.
 
